@@ -1,0 +1,8 @@
+transformers
+wandb
+accelerate
+trl
+datasets
+peft
+openai
+sentencepiece
